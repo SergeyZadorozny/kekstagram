@@ -1,0 +1,24 @@
+{
+  "name": "kekstagram",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Личный проект «Кекстаграм» от HTML Academy",
+  "author": "Alexander Gurov",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:avgur89/kekstagram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avgur89/kekstagram/issues"
+  },
+  "homepage": "https://github.com/avgur89/kekstagram",
+  "devDependencies": {
+    "eslint": "2.4.0"
+  },
+  "scripts": {
+    "test": "eslint build/js"
+  },
+  "engines": {
+    "node": "^5.0.0"
+  }
+}
